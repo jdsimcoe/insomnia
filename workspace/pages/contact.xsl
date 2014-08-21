@@ -237,14 +237,15 @@
         </div>
 
         <input name="fields[date][start][]" value="{$this-month}/{$this-day}/{$this-year}" type="hidden" />
-
-        <input name="send-email[sender-email]" value="fields[email]" type="hidden" />
-        <input name="send-email[sender-name]" value="{$website-name}" type="hidden" />
+        <input name="send-email[sender-email]" value="theguys@insomniacoffee.co" type="hidden" />
+        <input name="send-email[sender-name]" value="Insomnia Coffee" type="hidden" />
         <input name="send-email[reply-to-email]" value="fields[email]" type="hidden" />
         <input name="send-email[reply-to-name]" value="fields[name]" type="hidden" />
         <input name="send-email[subject]" value="fields[inquiry]" type="hidden" />
         <input name="send-email[body]" value="fields[inquiry],fields[content],fields[email],fields[name]" type="hidden" />
         <input name="send-email[recipient]" value="tyler" type="hidden" />
+
+        <input name="canofspam" value="{$canofspam}" type="hidden" />
 
         <div class="col-lg-4 col-lg-offset-4">
           <input class="btn btn-large btn-block btn-primary" name="action[contact-message]" type="submit" value="Submit Form" />
