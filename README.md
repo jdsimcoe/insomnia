@@ -1,6 +1,6 @@
 Insomnia Cofee Co.
 ==================
 
-![Website Preview](https://dl.dropboxusercontent.com/u/960204/simko.io/projects/insomnia-coffee-co-showcase.jpg)
+![Insomnia Coffee. Co Logo](https://dl.dropboxusercontent.com/u/960204/simko.io/logos/insomnia-coffee-co-logo.svg)
 
 The public website of Insomnia Coffee Co.
