@@ -243,7 +243,7 @@
         <input name="send-email[reply-to-name]" value="fields[name]" type="hidden" />
         <input name="send-email[subject]" value="fields[inquiry]" type="hidden" />
         <input name="send-email[body]" value="fields[inquiry],fields[content],fields[email],fields[name]" type="hidden" />
-        <input name="send-email[recipient]" value="tyler" type="hidden" />
+        <input name="send-email[recipient]" value="tgeel" type="hidden" />
 
         <input name="canofspam" value="{$canofspam}" type="hidden" />
 
